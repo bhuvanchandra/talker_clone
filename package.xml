@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="2">
-  <name>talker</name>
+  <name>talker_clone</name>
   <version>0.0.1</version>
-  <description>The talker package from ROS tutorials</description>
+  <description>The talker_clone package from ROS tutorials</description>
 
   <maintainer email="a@a.com">Bharat Khatri</maintainer>
 
